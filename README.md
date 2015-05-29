@@ -9,13 +9,14 @@ This list accepts and encourages pull requests.
 
 * [Golang.Org](https://github.com/golang)  Absolutely!
 * [FacebookGo](https://github.com/facebookgo)
-* [Dropbox](https://github.com/dropbox/godropbox)
+* [Dropbox](https://github.com/search?utf8=%E2%9C%93&q=user%3Adropbox+language%3AGo&type=Repositories&ref=searchresults)
 * [Gorilla](https://github.com/gorilla)
-* [Juju](https://github.com/juju)
-* [HashiCorp](https://github.com/hashicorp)
-* [Docker](https://github.com/docker)
-* [Mailgun](https://github.com/mailgun)
-* [SoundCloud](https://github.com/soundcloud)
+* [Juju](https://github.com/search?utf8=%E2%9C%93&q=user%3Ajuju+language%3AGo&type=Repositories&ref=searchresults)
+* [HashiCorp](https://github.com/search?utf8=%E2%9C%93&q=user%3Ahashicorp+language%3AGo&type=Repositories&ref=searchresults)
+* [Docker](https://github.com/search?utf8=%E2%9C%93&q=user%3Adocker+language%3AGo&type=Repositories&ref=searchresults)
+* [Mailgun](https://github.com/search?utf8=%E2%9C%93&q=user%3Amailgun+language%3AGo&type=Repositories&ref=searchresults)
+* [SoundCloud](https://github.com/search?utf8=%E2%9C%93&q=user%3ASoundCloud+language%3AGo&type=Repositories&ref=searchresults)
+* [Shopify](https://github.com/search?utf8=%E2%9C%93&q=user%3Ashopify+language%3AGo&type=Repositories&ref=searchresults)
 
 
 ... TODO
