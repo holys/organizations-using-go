@@ -17,6 +17,6 @@ This list accepts and encourages pull requests.
 * [Mailgun](https://github.com/search?utf8=%E2%9C%93&q=user%3Amailgun+language%3AGo&type=Repositories&ref=searchresults)
 * [SoundCloud](https://github.com/search?utf8=%E2%9C%93&q=user%3ASoundCloud+language%3AGo&type=Repositories&ref=searchresults)
 * [Shopify](https://github.com/search?utf8=%E2%9C%93&q=user%3Ashopify+language%3AGo&type=Repositories&ref=searchresults)
-
+* [Google](https://github.com/search?utf8=%E2%9C%93&q=user%3Agoogle+language%3AGo&type=Repositories&ref=searchresults)
 
 ... TODO
